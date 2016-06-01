@@ -1,0 +1,94 @@
+{
+	"articles": [
+		{
+    		"id": 1,
+    		"title": "article title 1",
+    		"image": "http://placehold.it/100x100&text=image 1"
+		},
+		{
+    		"id": 2,
+    		"title": "article title 2",
+    		"image": "http://placehold.it/100x100&text=image 2"
+		},
+		{
+    		"id": 3,
+    		"title": "article title 3",
+    		"image": "http://placehold.it/100x100&text=image 3"
+		},
+		{
+    		"id": 4,
+    		"title": "article title 4",
+    		"image": "http://placehold.it/100x100&text=image 4"
+		},
+		{
+    		"id": 5,
+    		"title": "article title 5",
+    		"image": "http://placehold.it/100x100&text=image 5"
+		},
+		{
+    		"id": 6,
+    		"title": "article title 6",
+    		"image": "http://placehold.it/100x100&text=image 6"
+		},
+		{
+    		"id": 7,
+    		"title": "article title 7",
+    		"image": "http://placehold.it/100x100&text=image 7"
+		},
+		{
+    		"id": 8,
+    		"title": "article title 8",
+    		"image": "http://placehold.it/100x100&text=image 8"
+		},
+		{
+    		"id": 9,
+    		"title": "article title 9",
+    		"image": "http://placehold.it/100x100&text=image 9"
+		},
+		{
+    		"id": 10,
+    		"title": "article title 10",
+    		"image": "http://placehold.it/100x100&text=image 10"
+		},
+		{
+    		"id": 11,
+    		"title": "article title 11",
+    		"image": "http://placehold.it/100x100&text=image 11"
+		},
+		{
+    		"id": 12,
+    		"title": "article title 12",
+    		"image": "http://placehold.it/100x100&text=image 12"
+		},
+		{
+    		"id": 13,
+    		"title": "article title 13",
+    		"image": "http://placehold.it/100x100&text=image 13"
+		},
+		{
+    		"id": 14,
+    		"title": "article title 14",
+    		"image": "http://placehold.it/100x100&text=image 14"
+		},
+		{
+    		"id": 15,
+    		"title": "article title 15",
+    		"image": "http://placehold.it/100x100&text=image 15"
+		},
+		{
+    		"id": 16,
+    		"title": "article title 16",
+    		"image": "http://placehold.it/100x100&text=image 16"
+		},
+		{
+    		"id": 17,
+    		"title": "article title 17",
+    		"image": "http://placehold.it/100x100&text=image 17"
+		},
+		{
+    		"id": 18,
+    		"title": "article title 18",
+    		"image": "http://placehold.it/100x100&text=image 18"
+		}
+	]
+}
