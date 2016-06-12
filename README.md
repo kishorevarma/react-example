@@ -1,4 +1,3 @@
-Please visit "http://nakiva.com/bauer/" for demo 
 
 # React Test
 
